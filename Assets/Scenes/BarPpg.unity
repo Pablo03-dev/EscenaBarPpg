@@ -1282,7 +1282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -1357,7 +1357,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -1381,7 +1381,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &272042364
 Transform:
   m_ObjectHideFlags: 0
@@ -1902,7 +1902,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -1977,7 +1977,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -5872,7 +5872,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 149.7
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -5947,7 +5947,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -6480,7 +6480,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -6555,7 +6555,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -8631,7 +8631,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -8706,7 +8706,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -9767,7 +9767,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -9842,7 +9842,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -10689,7 +10689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -10764,7 +10764,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
@@ -12590,7 +12590,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LensFlareData: {fileID: 11400000, guid: 080bf24a9ec88794793aaa63cefcf353, type: 2}
   intensity: 1.8
-  maxAttenuationDistance: 30
+  maxAttenuationDistance: 450.9
   maxAttenuationScale: 20.6
   distanceAttenuationCurve:
     serializedVersion: 2
@@ -12665,7 +12665,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  useOcclusion: 1
+  useOcclusion: 0
   occlusionRadius: 0.1
   sampleCount: 32
   occlusionOffset: 0.05
