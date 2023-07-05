@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7ba927d38db7a8a44bba05f7caa41baa
+guid: f21a6b1450a3a4543970114a17705b18
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,9 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: mt_Vocal_Mike01
-    second: {fileID: 9117253120989281641, guid: d47bb08e82cd80a4ca886d6c7d200204,
-      type: 3}
+      name: ColchonSilla
+    second: {fileID: 2100000, guid: a1c933492bdcd144cb927274a916b96e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SoporteSilla
+    second: {fileID: 2100000, guid: 320c038d769930a4abdc2bf60be75c6c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
