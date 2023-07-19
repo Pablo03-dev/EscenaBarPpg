@@ -3,7 +3,18 @@ guid: 2e0f1d92fa174774db0a0093a2601b5a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupil
+    second: {fileID: 2100000, guid: 6118bd708ed8bd94aad3f8d92ebe769d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rim
+    second: {fileID: 2926557707537190794, guid: d47bb08e82cd80a4ca886d6c7d200204,
+      type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

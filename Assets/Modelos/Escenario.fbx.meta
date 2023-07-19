@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 459fc3ce36e735847be09f6ca8f64c46
+guid: 87af5d3cffeb88148aee8aec8a315b3a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,15 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2926557707537190794, guid: d47bb08e82cd80a4ca886d6c7d200204,
-      type: 3}
+      name: Frente
+    second: {fileID: 2100000, guid: df1d5b9b1c8dcae4ba73cea58031b9cf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: -4511678724467997126, guid: d47bb08e82cd80a4ca886d6c7d200204,
-      type: 3}
+      name: Piso
+    second: {fileID: 2100000, guid: cf323b060fdc3e74c81a1d132c55cf2d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
