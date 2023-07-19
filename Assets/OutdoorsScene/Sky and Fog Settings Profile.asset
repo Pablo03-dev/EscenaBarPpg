@@ -405,7 +405,7 @@ MonoBehaviour:
     m_Value: 1
   windOrientation:
     m_OverrideState: 1
-    m_Value: 169
+    m_Value: 150
   windSpeed:
     m_OverrideState: 1
     m_Value: 100.36
